@@ -19,16 +19,13 @@ After dropping NaN records, there were 5330701 rows.  Then,we contined to filter
 the review wasn't skewed and based on a small number of reviewers.  So, we begin our analysis with 121322 reviews.  That's quite a drop from over 5 million.
 
     How many Vine reviews 497   and non-Vine reviews 120825  were there?	
-    How many Vine reviews were 5 stars? 220 	How many non-Vine reviews were 5 stars?    74445
+	[ReviewCounts](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/VineMemberCounts.png)
+	
+    How many Vine reviews were 5 stars? 220 	How many non-Vine reviews were 5 stars?    74445   
+	[5 Star Reviews](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine5Stars.png)
+	
     What percentage of Vine reviews were 5 stars? 44.27%    
 	What percentage of non-Vine reviews were 5 stars?  61.61%
-
-	Category	|VineReviews	| NonVineReview			| Image
--------|------|---------------|------------------------
-ReviewCount| 497 |120825 |[ReviewCounts](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/VineMemberCounts.png).
-5 Star Reviews | 220 | 74445 |[5 Star Reviews](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine5Stars.png).
-Pct of 5 Star Reviews| 44.27% | 61.61% |.
-
 
 ## Summary
 
