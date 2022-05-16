@@ -18,14 +18,15 @@ Big Data processing with over millions of rows takes more time.  AWS provides th
 After dropping NaN records, there were 5330701 rows.  Then,we contined to filter out any products that had less than 20 reviews and had 50% helpful votes. This ensured that we had a good population of reviews so that
 the review wasn't skewed and based on a small number of reviewers.  So, we begin our analysis with 121322 reviews.  That's quite a drop from over 5 million.
 
-    How many Vine reviews 497   and non-Vine reviews 120825  were there?	
-	[ReviewCounts](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/VineMemberCounts.png)
+How many Vine reviews 497   and non-Vine reviews 120825  were there?	
+
+![ReviewCounts](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/VineMemberCounts.png)
 	
-    How many Vine reviews were 5 stars? 220 	How many non-Vine reviews were 5 stars?    74445   
-	[5 Star Reviews](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine5Stars.png)
+How many Vine reviews were 5 stars? 220 	How many non-Vine reviews were 5 stars?    74445   
+![5 Star Reviews](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine5Stars.png)
 	
-    What percentage of Vine reviews were 5 stars? 44.27%    
-	What percentage of non-Vine reviews were 5 stars?  61.61%
+What percentage of Vine reviews were 5 stars? 44.27%    
+What percentage of non-Vine reviews were 5 stars?  61.61%
 
 ## Summary
 
@@ -39,7 +40,7 @@ findings as the 5 star.
 Vine members 		4 or 5 star percentage is 350/497 or 70.42%					1 or 2 is 70/497  14%
 Non-Vine members 	4 or 5 star percentage is 87462/120825 or 72.39%			1 or 2 is 26413/120825 21.86%
 
-[Star Groupings](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine4or5%20and%201or2%20Stars.png
+![Star Groupings](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine4or5%20and%201or2%20Stars.png
 
 So, including the other stars further proves more positivity for non-paid Vine members.   Although, there seems to be alot of neutral (3) for Vine members than non-Vine members.
 
