@@ -20,10 +20,10 @@ the review wasn't skewed and based on a small number of reviewers.  So, we begin
 
 How many Vine reviews 497   and non-Vine reviews 120825  were there?	
 
-[ReviewCounts](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/VineMemberCounts.png)
+![ReviewCounts](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/VineMemberCounts.png)
 	
 How many Vine reviews were 5 stars? 220 	How many non-Vine reviews were 5 stars?    74445   
-[5 Star Reviews](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine5Stars.png)
+![5 Star Reviews](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine5Stars.png)
 	
 What percentage of Vine reviews were 5 stars? 44.27%    
 What percentage of non-Vine reviews were 5 stars?  61.61%
@@ -40,7 +40,7 @@ findings as the 5 star.
 Vine members 		4 or 5 star percentage is 350/497 or 70.42%					1 or 2 is 70/497  14%
 Non-Vine members 	4 or 5 star percentage is 87462/120825 or 72.39%			1 or 2 is 26413/120825 21.86%
 
-[Star Groupings](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine4or5%20and%201or2%20Stars.png
+![Star Groupings](https://github.com/gaudiom4git/Amazon_Vine_Analysis/blob/main/Images/Vine4or5%20and%201or2%20Stars.png
 
 So, including the other stars further proves more positivity for non-paid Vine members.   Although, there seems to be alot of neutral (3) for Vine members than non-Vine members.
 
